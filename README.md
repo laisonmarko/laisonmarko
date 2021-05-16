@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Laison
 
-![99](https://komarev.com/ghpvc/?username=laisonamarko)
+![](https://komarev.com/ghpvc/?username=laisonamarko)
 
 
 ![Laisonmarko github stats](https://github-readme-stats.vercel.app/api?username=laisonmarko&count_private=true&show_icons=true)
