@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=laisonamarko)
 
 
-![Laisonmarko github stats](https://github-readme-stats.vercel.app/api?username=laisonmarko&count_private=true&show_icons=true) **|**
+![Laisonmarko github stats](https://github-readme-stats.vercel.app/api?username=laisonmarko&count_private=true&show_icons=true)
 
 - 📫 How to reach me: laisonmarko@gmail.com   ,+255757252339
 
