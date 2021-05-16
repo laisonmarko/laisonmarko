@@ -10,6 +10,6 @@
 - 🔭 I’m currently working on virtual desktop assistance project with python
 
 - 👯 I’m looking to collaborate on open source automation projects with python 
--
+
 - 💬 Ask me about python,php , laravel 
 
