@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I am Laison
 
-<!--
-**laisonmarko/laisonmarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=laisonamarko)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Laisonmarko github stats](https://github-readme-stats.vercel.app/api?username=laisonmarko&count_private=true&show_icons=true) **|**
+
+- 📫 How to reach me: laisonamarko@gmail.com 0757252339
+
+- 🔭 I’m currently working on virtual desktop assistance project with python
+
+- 👯 I’m looking to collaborate on open source automation projects with python 
+-
+- 💬 Ask me about python,php , laravel 
+
