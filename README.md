@@ -1,5 +1,5 @@
 ### Hi there 👋 I am __Laison__
-### I am Automation Amateur
+### Automateur
 
 ![](https://komarev.com/ghpvc/?username=laisonmarko)
 
